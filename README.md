@@ -5,7 +5,7 @@
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.3.0-orange.svg)](https://scikit-learn.org/)
 
 ## 技术栈
-Python / Pandas / NumPy / Scikit-learn / Matplotlib / Statsmodels
+Python / Pandas / NumPy / Scikit-learn / Matplotlib / AHP / PCA
 
 ## 项目简介
 本项目基于广东省新能源汽车及相关基础设施的时序数据，针对传统单模型分析精度低、权重分配主观、疫情干扰数据有效性等行业痛点，构建了一套完整的数据分析流程，涵盖**数据清洗、异常值检测、相关性分析、综合评价建模与灵敏度分析**，整合「层次分析法 (AHP)+ 熵值法 + 随机森林」多模型完成权重优化，并结合「全局线性拟合 (GLF)+ 全局二次拟合 (GQF)+ 有约束分段线性拟合 (CPLF)」实现精确预测新能源汽车销量趋势。本项目旨在量化新能源汽车的发展水平，识别关键驱动因素，并为政策制定与产业规划提供数据支撑。
