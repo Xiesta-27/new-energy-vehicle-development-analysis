@@ -1,4 +1,8 @@
 # 基于多模型融合的新能源汽车未来发展分析（广东省）
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.9](https://img.shields.io/badge/Python-3.9-blue.svg)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-2.1.0-green.svg)](https://pandas.pydata.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.3.0-orange.svg)](https://scikit-learn.org/)
 
 ## 技术栈
 Python / Pandas / NumPy / Scikit-learn / Matplotlib / Statsmodels
