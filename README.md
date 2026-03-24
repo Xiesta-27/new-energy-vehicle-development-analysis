@@ -90,8 +90,8 @@ Python / Pandas / NumPy / Scikit-learn / Matplotlib / Statsmodels
 - 市场需求（销量）为最核心驱动因素（权重 0.3895）
 
 
-
 ## 文件说明
-- `notebooks/`：完整分析流程
-- `src/`：可复用的模型代码
-- `report/`：项目详细报告 PDF
+- `data/`：数据文件
+- `assets/`：图表
+- `code/`：可复用的模型代码
+- `docs/`：项目详细报告 PDF
